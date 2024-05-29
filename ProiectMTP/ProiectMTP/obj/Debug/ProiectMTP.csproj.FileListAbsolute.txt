@@ -1,0 +1,14 @@
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\bin\Debug\ProiectMTP.exe.config
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\bin\Debug\ProiectMTP.exe
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\bin\Debug\ProiectMTP.pdb
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.csproj.AssemblyReference.cache
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.LoginForm.resources
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.Properties.Resources.resources
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.csproj.GenerateResource.cache
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.csproj.CoreCompileInputs.cache
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.exe
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.pdb
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.StudentForm.resources
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.ProfessorForm.resources
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.AssignmentForm.resources
+C:\Users\georg_r1r2xai\source\repos\ProiectMTP\ProiectMTP\obj\Debug\ProiectMTP.GradesForm.resources
